@@ -38,7 +38,7 @@ Discovered loss-making products
 Observed seasonal sales trends
 
 **Dashboard Preview**
-![Dashboard Screenshot](<img width="1142" height="642" alt="Screenshot jpg" src="https://github.com/user-attachments/assets/a586cec6-9b89-45b8-9064-35e2ad9852cd" />)
+![Dashboard Screenshot]<img width="1142" height="642" alt="Screenshot jpg" src="https://github.com/user-attachments/assets/a586cec6-9b89-45b8-9064-35e2ad9852cd" />
 
 **Sample SQL Queries Used**
 **Total Sales**
