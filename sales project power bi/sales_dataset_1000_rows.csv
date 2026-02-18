@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Region,Category,Product_Name,Sales,Profit,Quantity,Customer_Name,Profit Status
+1001,11/24/2023,North,Furniture,Pen,18224,-1413.35,3,Amit,Loss
+1002,12/13/2023,North,Office Supplies,Mouse,2282,-422.4,4,Sneha,Loss
+1003,9/16/2023,North,Office Supplies,Table,47125,5887.9,9,Karan,Profit
+1004,4/23/2023,West,Office Supplies,Laptop,625,112.13,3,Karan,Profit
+1005,6/24/2023,East,Furniture,Table,22259,-3314.25,7,Amit,Loss
+1006,7/3/2023,East,Office Supplies,Laptop,3047,502.35,9,Amit,Profit
+1007,7/13/2023,North,Office Supplies,Laptop,41398,4523.14,6,Sneha,Profit
+1008,12/27/2023,North,Furniture,Pen,15135,2823.19,2,Sneha,Profit
+1009,2/21/2023,West,Technology,Mouse,41860,9085.93,3,Neha,Profit
+1010,7/1/2023,South,Office Supplies,Laptop,46194,12395.11,2,Pooja,Profit
+1011,10/1/2023,South,Furniture,Mouse,25067,-1630.01,9,Sneha,Loss
+1012,12/17/2023,East,Furniture,Table,2303,466.41,7,Ravi,Profit
+1013,2/3/2023,South,Office Supplies,Pen,20822,-1950.75,8,Karan,Loss
+1014,11/26/2023,West,Furniture,Laptop,9350,-717.02,9,Ravi,Loss
+1015,10/27/2023,West,Office Supplies,Mouse,23923,-2161.19,3,Priya,Loss
+1016,2/16/2023,North,Furniture,Table,41320,-4958.77,7,Amit,Loss
+1017,7/17/2023,West,Office Supplies,Mouse,34876,-2591.04,9,Rahul,Loss
+1018,12/15/2023,North,Office Supplies,Printer,49409,-3290.02,6,Amit,Loss
+1019,5/31/2023,West,Furniture,Mouse,412,114.09,5,Pooja,Profit
+1020,9/17/2023,North,Office Supplies,Laptop,42074,2264.9,4,Pooja,Profit
+1021,7/11/2023,South,Office Supplies,Printer,237,23.57,8,Rahul,Profit
+1022,2/27/2023,East,Technology,Table,3996,-317.94,10,Amit,Loss
+1023,2/13/2023,West,Furniture,Printer,8441,-1146.32,8,Pooja,Loss
+1024,5/16/2023,West,Furniture,Printer,49697,8198.29,4,Ravi,Profit
+1025,7/24/2023,East,Technology,Printer,29788,-4155.36,4,Amit,Loss
+1026,6/23/2023,North,Office Supplies,Printer,15280,1439.68,1,Amit,Profit
+1027,12/29/2023,North,Furniture,Chair,2258,518.93,2,Sneha,Profit
+1028,5/23/2023,West,Furniture,Printer,8871,1434.23,10,Priya,Profit
+1029,5/5/2023,West,Technology,Table,6381,-966.94,7,Neha,Loss
+1030,8/5/2023,West,Technology,Pen,3750,512.56,2,Rahul,Profit
+1031,7/26/2023,East,Furniture,Table,12756,-1338.05,8,Pooja,Loss
+1032,8/5/2023,South,Technology,Mouse,16571,3931.35,2,Priya,Profit
+1033,10/9/2023,North,Furniture,Pen,35627,7767.18,2,Sneha,Profit
+1034,3/27/2023,West,Technology,Mouse,14208,3300.88,1,Pooja,Profit
+1035,7/14/2023,North,Technology,Laptop,30019,-1722.35,9,Priya,Loss
+1036,3/21/2023,South,Technology,Table,4032,361.23,9,Rahul,Profit
+1037,6/10/2023,North,Furniture,Printer,31446,1617.12,9,Pooja,Profit
+1038,1/30/2023,North,Furniture,Chair,39196,-6507.3,4,Karan,Loss
+1039,3/3/2023,South,Office Supplies,Printer,2804,307.57,7,Neha,Profit
+1040,5/14/2023,South,Office Supplies,Pen,20790,-1676.86,7,Pooja,Loss
+1041,12/10/2023,East,Technology,Laptop,49474,13252.46,1,Priya,Profit
+1042,11/15/2023,North,Furniture,Printer,14169,750.14,3,Neha,Profit
+1043,2/5/2023,South,Technology,Laptop,10538,201.19,9,Ravi,Profit
+1044,11/10/2023,North,Office Supplies,Printer,19820,5269.7,2,Pooja,Profit
+1045,5/16/2023,North,Furniture,Pen,36456,-4457.7,5,Sneha,Loss
+1046,6/25/2023,South,Office Supplies,Pen,17500,922.33,5,Rahul,Profit
+1047,2/17/2023,West,Technology,Chair,432,-14.35,3,Ravi,Loss
+1048,3/24/2023,West,Office Supplies,Pen,28228,2271.04,2,Amit,Profit
+1049,12/20/2023,South,Office Supplies,Chair,24396,2226.25,3,Karan,Profit
+1050,3/7/2023,North,Technology,Laptop,2814,701.99,4,Sneha,Profit
+1051,12/8/2023,North,Technology,Printer,26832,7698.6,3,Sneha,Profit
+1052,3/25/2023,South,Technology,Chair,11954,2011.65,6,Karan,Profit
+1053,12/9/2023,South,Technology,Table,46158,-6736.86,1,Priya,Loss
+1054,4/24/2023,South,Technology,Laptop,20200,4247.42,4,Sneha,Profit
+1055,1/13/2023,South,Technology,Laptop,18458,4285.51,5,Neha,Profit
+1056,11/25/2023,West,Office Supplies,Printer,21902,5905.19,2,Ravi,Profit
+1057,4/2/2023,East,Furniture,Chair,39296,679.11,6,Karan,Profit
+1058,11/7/2023,North,Technology,Printer,12657,-919.39,7,Rahul,Loss
+1059,9/24/2023,South,Technology,Mouse,4785,1313.18,6,Neha,Profit
+1060,12/6/2023,North,Office Supplies,Laptop,33434,-1516.49,7,Neha,Loss
+1061,7/26/2023,East,Office Supplies,Table,12772,130.57,7,Pooja,Profit
+1062,11/12/2023,East,Technology,Printer,226,-10.86,4,Karan,Loss
+1063,10/24/2023,East,Technology,Mouse,29177,4020.99,9,Priya,Profit
+1064,3/28/2023,North,Technology,Printer,43706,5090.46,6,Amit,Profit
+1065,5/1/2023,East,Furniture,Table,9856,-1850.83,4,Priya,Loss
+1066,11/9/2023,North,Technology,Mouse,41472,3642.71,7,Priya,Profit
+1067,7/24/2023,South,Furniture,Pen,45264,-8927.31,2,Karan,Loss
+1068,4/23/2023,South,Office Supplies,Printer,30644,-5359.35,4,Amit,Loss
+1069,8/22/2023,South,Technology,Pen,35008,10290.47,10,Neha,Profit
+1070,8/15/2023,West,Office Supplies,Mouse,10630,1826.53,8,Priya,Profit
+1071,5/13/2023,South,Office Supplies,Laptop,34363,1453.5,4,Ravi,Profit
+1072,8/14/2023,North,Office Supplies,Laptop,15567,-998.51,6,Amit,Loss
+1073,3/12/2023,South,Furniture,Mouse,45678,-5645.68,4,Amit,Loss
+1074,8/1/2023,West,Technology,Printer,30734,242.4,4,Karan,Profit
+1075,7/19/2023,North,Office Supplies,Mouse,31459,-6199.06,6,Ravi,Loss
+1076,7/19/2023,West,Office Supplies,Pen,48344,3532.31,10,Sneha,Profit
+1077,9/7/2023,South,Technology,Mouse,32027,-5940.61,6,Karan,Loss
+1078,3/26/2023,West,Furniture,Printer,35204,-6566.14,7,Rahul,Loss
+1079,2/12/2023,West,Furniture,Mouse,12109,-2117.35,7,Neha,Loss
+1080,4/19/2023,West,Technology,Laptop,25046,-1524.59,7,Ravi,Loss
+1081,2/11/2023,West,Furniture,Pen,35551,-6184.35,6,Sneha,Loss
+1082,11/29/2023,North,Office Supplies,Chair,49629,-9155.81,4,Sneha,Loss
+1083,1/11/2023,South,Furniture,Table,31235,4208.27,10,Sneha,Profit
+1084,8/27/2023,East,Technology,Table,39907,4135.31,2,Pooja,Profit
+1085,6/9/2023,North,Office Supplies,Chair,20644,1814.57,7,Karan,Profit
+1086,4/12/2023,North,Office Supplies,Pen,41306,-3245.63,5,Amit,Loss
+1087,10/17/2023,North,Technology,Printer,28274,3697.13,2,Neha,Profit
+1088,1/7/2023,West,Technology,Chair,28611,8022.35,8,Pooja,Profit
+1089,8/11/2023,South,Office Supplies,Printer,42828,-2782.06,9,Priya,Loss
+1090,8/27/2023,West,Office Supplies,Printer,17789,-691.06,4,Amit,Loss
+1091,5/23/2023,West,Furniture,Mouse,37545,3948.45,7,Neha,Profit
+1092,1/15/2023,West,Technology,Table,32152,-3020.36,5,Neha,Loss
+1093,5/24/2023,East,Office Supplies,Chair,34057,9332.68,2,Sneha,Profit
+1094,7/28/2023,West,Office Supplies,Table,45459,1729.56,8,Priya,Profit
+1095,1/9/2023,North,Technology,Table,26702,3895.65,5,Neha,Profit
+1096,8/31/2023,East,Technology,Pen,36270,-1255.1,8,Ravi,Loss
+1097,6/6/2023,East,Furniture,Chair,47470,-4923.01,2,Pooja,Loss
+1098,4/9/2023,South,Office Supplies,Mouse,18320,2973.2,9,Ravi,Profit
+1099,2/21/2023,South,Technology,Table,23850,-2630.16,1,Pooja,Loss
+1100,5/21/2023,North,Furniture,Printer,19345,2876.77,3,Priya,Profit
+1101,2/22/2023,North,Office Supplies,Laptop,30962,1218.57,6,Pooja,Profit
+1102,1/27/2023,East,Technology,Chair,4482,1.59,2,Rahul,Profit
+1103,3/19/2023,South,Office Supplies,Laptop,5782,1717.02,2,Karan,Profit
+1104,11/7/2023,South,Office Supplies,Mouse,29724,7557.39,5,Karan,Profit
+1105,6/6/2023,North,Office Supplies,Pen,6703,1835.25,4,Sneha,Profit
+1106,5/16/2023,North,Furniture,Table,11591,880.87,3,Rahul,Profit
+1107,7/29/2023,West,Office Supplies,Printer,30996,-1685.26,4,Ravi,Loss
+1108,12/28/2023,East,Office Supplies,Mouse,4864,698.92,5,Sneha,Profit
+1109,8/6/2023,North,Office Supplies,Table,42643,-5351.92,5,Pooja,Loss
+1110,2/6/2023,North,Furniture,Laptop,39196,6838.87,10,Ravi,Profit
+1111,8/13/2023,North,Technology,Pen,20128,3016.52,5,Priya,Profit
+1112,8/13/2023,North,Office Supplies,Chair,28513,4769.28,10,Ravi,Profit
+1113,1/14/2023,North,Furniture,Pen,37896,3545.61,1,Ravi,Profit
+1114,10/23/2023,North,Furniture,Mouse,34210,4302.07,5,Pooja,Profit
+1115,10/27/2023,West,Office Supplies,Mouse,6179,216.3,7,Neha,Profit
+1116,6/14/2023,North,Furniture,Laptop,27177,3990.58,5,Karan,Profit
+1117,10/9/2023,North,Technology,Chair,20812,-1535.94,2,Karan,Loss
+1118,9/21/2023,North,Office Supplies,Printer,30476,201.87,4,Neha,Profit
+1119,11/15/2023,West,Office Supplies,Mouse,3582,-351.83,9,Pooja,Loss
+1120,5/28/2023,West,Office Supplies,Mouse,8157,-1513.66,10,Sneha,Loss
+1121,12/30/2023,South,Technology,Printer,1096,83.43,2,Sneha,Profit
+1122,2/28/2023,West,Furniture,Pen,10290,506.14,5,Ravi,Profit
+1123,8/1/2023,West,Technology,Table,30135,2279.19,7,Sneha,Profit
+1124,11/3/2023,South,Furniture,Laptop,27393,-823.5,9,Ravi,Loss
+1125,1/2/2023,East,Office Supplies,Laptop,38665,3478.37,8,Pooja,Profit
+1126,8/17/2023,West,Technology,Laptop,36370,6598.84,7,Priya,Profit
+1127,6/14/2023,South,Office Supplies,Table,37673,-320.77,7,Rahul,Loss
+1128,6/12/2023,West,Office Supplies,Mouse,25502,7502.87,3,Priya,Profit
+1129,1/19/2023,South,Office Supplies,Printer,21957,5156.6,8,Amit,Profit
+1130,9/27/2023,West,Furniture,Pen,9647,48.13,3,Amit,Profit
+1131,8/29/2023,East,Technology,Printer,45597,-57.38,2,Neha,Loss
+1132,12/12/2023,West,Technology,Pen,47301,11528.17,8,Rahul,Profit
+1133,11/13/2023,North,Furniture,Pen,45052,11734.45,4,Amit,Profit
+1134,8/11/2023,North,Office Supplies,Pen,6786,148.2,5,Rahul,Profit
+1135,1/24/2023,East,Furniture,Laptop,23692,-298.03,3,Sneha,Loss
+1136,9/29/2023,West,Office Supplies,Pen,12000,-1380.1,2,Karan,Loss
+1137,11/14/2023,South,Technology,Printer,9579,-803.73,5,Priya,Loss
+1138,5/11/2023,North,Technology,Laptop,44607,3269.65,2,Priya,Profit
+1139,6/26/2023,East,Office Supplies,Mouse,45440,-3405.77,5,Sneha,Loss
+1140,7/16/2023,West,Furniture,Table,25193,2165.62,10,Ravi,Profit
+1141,12/25/2023,East,Furniture,Pen,26139,-1640.48,10,Rahul,Loss
+1142,11/7/2023,West,Technology,Table,39984,8035.42,4,Sneha,Profit
+1143,11/14/2023,East,Office Supplies,Pen,43400,6094.56,3,Amit,Profit
+1144,11/18/2023,North,Technology,Mouse,2386,214.23,3,Amit,Profit
+1145,6/1/2023,East,Office Supplies,Mouse,11710,-1166.35,9,Neha,Loss
+1146,9/29/2023,East,Furniture,Laptop,31778,9015.17,5,Neha,Profit
+1147,2/28/2023,West,Furniture,Table,49624,14056,7,Neha,Profit
+1148,2/16/2023,West,Furniture,Laptop,35364,-4887.5,6,Ravi,Loss
+1149,10/27/2023,West,Office Supplies,Laptop,7300,1003.15,8,Rahul,Profit
+1150,11/14/2023,East,Office Supplies,Table,42644,-7180.89,8,Ravi,Loss
+1151,11/29/2023,West,Furniture,Table,3171,866.1,5,Priya,Profit
+1152,3/1/2023,North,Furniture,Printer,9090,-51.6,6,Karan,Loss
+1153,10/28/2023,South,Technology,Pen,6689,1450.49,10,Karan,Profit
+1154,5/24/2023,North,Office Supplies,Laptop,14438,313.18,4,Neha,Profit
+1155,2/20/2023,East,Office Supplies,Pen,23706,-4023.5,5,Sneha,Loss
+1156,3/4/2023,West,Furniture,Pen,14100,1704.02,10,Rahul,Profit
+1157,1/26/2023,East,Furniture,Table,37200,-3623.18,9,Sneha,Loss
+1158,10/28/2023,South,Furniture,Laptop,9870,1917.96,10,Rahul,Profit
+1159,5/22/2023,South,Furniture,Printer,16626,3312.85,2,Rahul,Profit
+1160,3/9/2023,North,Technology,Table,38791,-1478.49,3,Ravi,Loss
+1161,1/27/2023,South,Office Supplies,Mouse,34677,-4964.89,2,Priya,Loss
+1162,8/18/2023,East,Office Supplies,Printer,7346,191.02,4,Rahul,Profit
+1163,12/4/2023,East,Technology,Pen,2241,-380.05,8,Karan,Loss
+1164,8/7/2023,North,Technology,Pen,29269,-4778.3,2,Neha,Loss
+1165,11/8/2023,South,Furniture,Table,18223,2043.87,10,Neha,Profit
+1166,7/15/2023,East,Technology,Printer,39877,602.13,2,Sneha,Profit
+1167,8/9/2023,West,Furniture,Mouse,22412,4789.66,7,Karan,Profit
+1168,2/18/2023,East,Technology,Laptop,43788,-3177.04,3,Priya,Loss
+1169,2/4/2023,North,Furniture,Chair,28503,-4324.41,6,Pooja,Loss
+1170,10/12/2023,North,Office Supplies,Printer,37010,-1301.9,2,Karan,Loss
+1171,7/1/2023,West,Office Supplies,Chair,19050,1908.91,6,Amit,Profit
+1172,10/23/2023,South,Furniture,Pen,31800,-2794.51,2,Neha,Loss
+1173,10/12/2023,East,Furniture,Laptop,37824,-3287.68,7,Rahul,Loss
+1174,11/8/2023,East,Furniture,Table,18109,2740.79,5,Neha,Profit
+1175,6/29/2023,North,Furniture,Table,37314,4801.28,2,Pooja,Profit
+1176,11/21/2023,North,Furniture,Pen,34965,-3231.94,7,Priya,Loss
+1177,6/24/2023,South,Technology,Laptop,47490,-1795.53,10,Amit,Loss
+1178,1/27/2023,South,Furniture,Printer,3461,474.1,5,Priya,Profit
+1179,12/5/2023,West,Technology,Printer,29169,206.86,4,Amit,Profit
+1180,6/26/2023,West,Furniture,Laptop,44647,6216.79,8,Ravi,Profit
+1181,1/24/2023,South,Technology,Printer,3790,-743.43,5,Sneha,Loss
+1182,3/12/2023,East,Technology,Laptop,8063,-1581.44,7,Pooja,Loss
+1183,3/8/2023,West,Office Supplies,Pen,15280,766,6,Amit,Profit
+1184,7/23/2023,North,Technology,Chair,30330,7903.43,6,Karan,Profit
+1185,10/21/2023,West,Office Supplies,Pen,27573,-1523.2,7,Rahul,Loss
+1186,6/16/2023,South,Office Supplies,Mouse,45394,11797.21,2,Karan,Profit
+1187,2/24/2023,South,Technology,Printer,26443,1638.97,7,Ravi,Profit
+1188,6/23/2023,South,Technology,Table,5205,287.53,2,Sneha,Profit
+1189,6/28/2023,East,Office Supplies,Pen,9879,-808.75,3,Ravi,Loss
+1190,4/12/2023,South,Office Supplies,Table,49951,6381.47,3,Priya,Profit
+1191,8/26/2023,West,Office Supplies,Printer,42339,4981.15,10,Neha,Profit
+1192,11/18/2023,East,Furniture,Mouse,4675,161.1,5,Ravi,Profit
+1193,10/30/2023,North,Technology,Printer,5062,-226.76,8,Rahul,Loss
+1194,1/30/2023,East,Technology,Chair,42448,9853.24,2,Karan,Profit
+1195,8/25/2023,North,Technology,Printer,42918,-4544.17,10,Priya,Loss
+1196,9/14/2023,South,Furniture,Mouse,6983,1434.89,6,Amit,Profit
+1197,9/16/2023,South,Furniture,Table,46574,879.28,8,Pooja,Profit
+1198,7/6/2023,East,Technology,Mouse,26989,5053.22,10,Rahul,Profit
+1199,11/20/2023,East,Furniture,Laptop,6393,504.93,7,Ravi,Profit
+1200,5/10/2023,South,Technology,Chair,38390,5060.03,6,Ravi,Profit
+1201,12/2/2023,West,Furniture,Printer,46654,12549.98,5,Karan,Profit
+1202,11/26/2023,East,Furniture,Pen,46260,9921.82,9,Amit,Profit
+1203,11/27/2023,West,Office Supplies,Laptop,1394,-26.07,3,Sneha,Loss
+1204,6/24/2023,West,Furniture,Table,9215,-1129.09,5,Amit,Loss
+1205,9/17/2023,North,Office Supplies,Laptop,40703,-5473.56,7,Pooja,Loss
+1206,3/25/2023,South,Office Supplies,Printer,11048,1774.21,1,Karan,Profit
+1207,7/6/2023,South,Technology,Printer,18873,3325.34,8,Sneha,Profit
+1208,10/1/2023,South,Technology,Mouse,12915,-207.67,10,Priya,Loss
+1209,8/25/2023,East,Technology,Printer,34767,324.39,3,Sneha,Profit
+1210,11/6/2023,South,Technology,Chair,42220,1701.27,6,Amit,Profit
+1211,12/31/2023,North,Technology,Chair,10706,-680.95,9,Pooja,Loss
+1212,8/12/2023,North,Furniture,Mouse,23110,6129.6,7,Rahul,Profit
+1213,7/22/2023,East,Furniture,Mouse,5548,-69.59,1,Neha,Loss
+1214,2/20/2023,East,Furniture,Table,2710,-153.28,8,Pooja,Loss
+1215,12/28/2023,West,Technology,Printer,544,137.59,1,Ravi,Profit
+1216,4/21/2023,South,Office Supplies,Pen,40103,2562.01,2,Ravi,Profit
+1217,5/2/2023,East,Furniture,Chair,15826,156.88,10,Priya,Profit
+1218,2/2/2023,North,Technology,Printer,35330,-6775.67,9,Sneha,Loss
+1219,3/15/2023,East,Technology,Chair,40492,-955.29,10,Karan,Loss
+1220,4/6/2023,North,Office Supplies,Laptop,4635,1282.51,9,Rahul,Profit
+1221,7/19/2023,West,Furniture,Pen,25554,7423.94,5,Rahul,Profit
+1222,7/2/2023,North,Technology,Table,48234,6200.59,2,Neha,Profit
+1223,3/10/2023,North,Technology,Printer,22387,4628.61,3,Priya,Profit
+1224,12/23/2023,West,Office Supplies,Table,9037,-1522.28,8,Rahul,Loss
+1225,5/31/2023,South,Furniture,Table,2946,-124.33,5,Karan,Loss
+1226,10/6/2023,West,Technology,Chair,49567,6119.06,5,Neha,Profit
+1227,1/25/2023,East,Technology,Chair,24318,449.29,7,Priya,Profit
+1228,7/17/2023,East,Furniture,Mouse,45555,2221.34,9,Ravi,Profit
+1229,2/12/2023,West,Furniture,Mouse,39682,11807.34,3,Ravi,Profit
+1230,6/14/2023,North,Furniture,Laptop,43514,-2270.56,8,Karan,Loss
+1231,3/27/2023,West,Technology,Mouse,2975,486.14,6,Karan,Profit
+1232,5/21/2023,North,Furniture,Pen,41980,130.35,9,Pooja,Profit
+1233,1/16/2023,South,Office Supplies,Pen,28916,-5280.08,2,Sneha,Loss
+1234,11/27/2023,East,Technology,Mouse,37374,-6869.62,3,Priya,Loss
+1235,7/9/2023,East,Technology,Chair,37812,-4959.14,6,Karan,Loss
+1236,6/10/2023,East,Furniture,Chair,1898,318.56,8,Karan,Profit
+1237,10/15/2023,North,Technology,Laptop,46339,1072.12,10,Ravi,Profit
+1238,12/22/2023,West,Furniture,Chair,9095,2059.23,8,Pooja,Profit
+1239,8/16/2023,North,Office Supplies,Laptop,43967,-1155.78,2,Ravi,Loss
+1240,6/3/2023,South,Office Supplies,Pen,46089,5477.68,6,Sneha,Profit
+1241,3/4/2023,South,Furniture,Table,32576,-6087.09,9,Neha,Loss
+1242,8/28/2023,South,Office Supplies,Chair,4508,-204.46,8,Karan,Loss
+1243,7/29/2023,North,Furniture,Laptop,42296,-6890.76,8,Neha,Loss
+1244,3/7/2023,South,Furniture,Mouse,33155,8466.33,1,Amit,Profit
+1245,9/23/2023,South,Technology,Table,10814,-418.17,4,Neha,Loss
+1246,9/23/2023,East,Furniture,Laptop,13064,1535.39,9,Ravi,Profit
+1247,3/6/2023,East,Office Supplies,Printer,6322,324.23,3,Pooja,Profit
+1248,3/29/2023,East,Office Supplies,Chair,2059,-328.18,10,Ravi,Loss
+1249,11/30/2023,South,Office Supplies,Mouse,40708,4864.43,8,Ravi,Profit
+1250,11/25/2023,East,Technology,Table,45091,137.36,8,Amit,Profit
+1251,12/19/2023,North,Furniture,Mouse,27438,1155.84,4,Neha,Profit
+1252,11/7/2023,South,Technology,Pen,21126,3530.15,6,Karan,Profit
+1253,3/8/2023,East,Office Supplies,Printer,7158,-289.48,8,Amit,Loss
+1254,5/17/2023,West,Furniture,Table,6544,-1143.22,7,Karan,Loss
+1255,5/8/2023,South,Technology,Printer,47459,-2071.23,3,Priya,Loss
+1256,9/21/2023,West,Technology,Laptop,32795,-6178.97,7,Priya,Loss
+1257,5/4/2023,South,Office Supplies,Laptop,3388,-591.98,8,Priya,Loss
+1258,5/27/2023,North,Furniture,Mouse,8977,2165.5,6,Karan,Profit
+1259,7/7/2023,North,Technology,Chair,37573,3039.97,6,Ravi,Profit
+1260,2/7/2023,West,Office Supplies,Mouse,36235,-2179.16,10,Amit,Loss
+1261,3/7/2023,North,Technology,Laptop,22422,1769.45,6,Pooja,Profit
+1262,4/12/2023,West,Office Supplies,Chair,3169,-572.14,6,Priya,Loss
+1263,9/23/2023,West,Furniture,Printer,33984,-4421.64,10,Neha,Loss
+1264,3/25/2023,West,Office Supplies,Pen,19810,1918.84,9,Priya,Profit
+1265,12/29/2023,East,Technology,Chair,24340,-836.81,2,Karan,Loss
+1266,10/26/2023,East,Office Supplies,Pen,41439,-7735.68,8,Ravi,Loss
+1267,12/2/2023,South,Office Supplies,Chair,38441,1546.27,9,Karan,Profit
+1268,3/17/2023,South,Furniture,Printer,46109,-6688.21,1,Priya,Loss
+1269,6/10/2023,West,Furniture,Mouse,45452,-4456.76,9,Priya,Loss
+1270,2/1/2023,South,Office Supplies,Table,36958,-1385.01,8,Karan,Loss
+1271,6/10/2023,South,Technology,Printer,22634,1655.37,5,Priya,Profit
+1272,4/9/2023,South,Technology,Printer,19762,-1730.49,5,Ravi,Loss
+1273,12/27/2023,South,Office Supplies,Pen,32247,-1337.59,6,Ravi,Loss
+1274,5/28/2023,North,Office Supplies,Pen,35798,-363.45,7,Neha,Loss
+1275,3/16/2023,East,Furniture,Laptop,47001,-7542.97,8,Ravi,Loss
+1276,9/3/2023,South,Furniture,Printer,17968,4788.69,5,Pooja,Profit
+1277,2/25/2023,South,Furniture,Chair,44098,11138.81,4,Sneha,Profit
+1278,1/27/2023,North,Technology,Laptop,47212,1709.17,3,Rahul,Profit
+1279,10/9/2023,South,Technology,Pen,31375,1214.97,4,Ravi,Profit
+1280,6/14/2023,East,Office Supplies,Chair,6062,764.72,4,Rahul,Profit
+1281,3/31/2023,West,Furniture,Chair,26217,5085.58,3,Ravi,Profit
+1282,1/20/2023,North,Technology,Printer,39703,-5810.52,6,Ravi,Loss
+1283,8/21/2023,West,Furniture,Printer,30872,-1962.89,2,Neha,Loss
+1284,3/25/2023,West,Office Supplies,Laptop,47294,-5055.75,6,Ravi,Loss
+1285,10/18/2023,South,Furniture,Printer,42059,10452.56,7,Neha,Profit
+1286,2/14/2023,West,Office Supplies,Chair,12309,3579.98,8,Neha,Profit
+1287,5/8/2023,North,Technology,Mouse,15635,365.35,5,Neha,Profit
+1288,6/4/2023,North,Technology,Pen,23763,3478.53,1,Amit,Profit
+1289,8/27/2023,East,Furniture,Mouse,45162,2315.01,5,Amit,Profit
+1290,11/24/2023,East,Technology,Printer,14673,-1326.96,3,Priya,Loss
+1291,3/20/2023,West,Office Supplies,Printer,24685,195.57,9,Priya,Profit
+1292,10/3/2023,South,Furniture,Pen,49662,4862.27,2,Priya,Profit
+1293,9/28/2023,East,Furniture,Printer,7553,-1277.37,9,Sneha,Loss
+1294,10/21/2023,South,Furniture,Laptop,34301,717.59,4,Priya,Profit
+1295,2/16/2023,West,Furniture,Mouse,8847,500.95,8,Rahul,Profit
+1296,10/14/2023,West,Office Supplies,Laptop,47600,-9001.86,5,Rahul,Loss
+1297,4/22/2023,North,Furniture,Mouse,22779,3421.23,9,Rahul,Profit
+1298,2/5/2023,West,Furniture,Laptop,26995,-2969.7,3,Karan,Loss
+1299,7/11/2023,West,Technology,Mouse,24818,-3967.78,9,Pooja,Loss
+1300,12/1/2023,East,Furniture,Table,35409,-122.89,3,Sneha,Loss
+1301,1/2/2023,North,Technology,Mouse,44338,7073.99,7,Karan,Profit
+1302,4/28/2023,South,Technology,Laptop,10366,-644.51,2,Rahul,Loss
+1303,12/5/2023,West,Office Supplies,Chair,15972,-1548.63,2,Rahul,Loss
+1304,8/17/2023,North,Furniture,Pen,3099,3.51,4,Sneha,Profit
+1305,1/29/2023,South,Office Supplies,Laptop,15546,3231.91,10,Neha,Profit
+1306,10/23/2023,East,Furniture,Laptop,9588,2807.82,9,Sneha,Profit
+1307,7/31/2023,East,Technology,Chair,36685,10061.23,3,Karan,Profit
+1308,10/12/2023,West,Furniture,Laptop,42360,5747.03,9,Neha,Profit
+1309,12/23/2023,West,Technology,Table,19853,-233.67,9,Priya,Loss
+1310,5/4/2023,South,Technology,Pen,9660,1959.9,1,Karan,Profit
+1311,8/2/2023,South,Technology,Table,16911,-1662.89,2,Priya,Loss
+1312,7/9/2023,North,Office Supplies,Pen,12683,-2209.78,7,Rahul,Loss
+1313,2/7/2023,South,Office Supplies,Pen,44204,3510.91,8,Sneha,Profit
+1314,6/20/2023,East,Furniture,Table,12653,3555.98,2,Priya,Profit
+1315,5/5/2023,South,Technology,Table,36381,-1425.86,5,Karan,Loss
+1316,8/27/2023,East,Technology,Laptop,23769,1340.77,8,Priya,Profit
+1317,2/20/2023,West,Technology,Table,24494,-1066.44,1,Sneha,Loss
+1318,3/16/2023,North,Technology,Printer,38475,3446.26,7,Ravi,Profit
+1319,3/20/2023,South,Technology,Table,25093,2130.26,4,Priya,Profit
+1320,10/9/2023,East,Technology,Mouse,47619,5754.62,8,Priya,Profit
+1321,3/28/2023,East,Furniture,Table,47406,3473.59,3,Rahul,Profit
+1322,9/26/2023,North,Furniture,Pen,3379,615.55,7,Pooja,Profit
+1323,11/19/2023,South,Furniture,Pen,10097,-1973.25,9,Priya,Loss
+1324,7/11/2023,North,Office Supplies,Pen,43896,11718.12,8,Priya,Profit
+1325,1/9/2023,North,Office Supplies,Printer,27157,-5270.48,9,Ravi,Loss
+1326,10/2/2023,East,Furniture,Printer,45934,6293.71,3,Amit,Profit
+1327,2/19/2023,South,Furniture,Table,40817,2580.78,6,Ravi,Profit
+1328,7/23/2023,North,Technology,Mouse,30280,2498.13,4,Ravi,Profit
+1329,12/17/2023,North,Office Supplies,Pen,49980,-9204.2,7,Karan,Loss
+1330,7/13/2023,West,Furniture,Pen,819,124.02,2,Priya,Profit
+1331,8/11/2023,East,Office Supplies,Chair,34813,9036.62,4,Sneha,Profit
+1332,12/21/2023,West,Technology,Chair,5072,721.31,5,Rahul,Profit
+1333,4/2/2023,East,Furniture,Table,38671,-4946.18,7,Amit,Loss
+1334,6/3/2023,South,Office Supplies,Table,37338,8114.49,7,Neha,Profit
+1335,7/16/2023,South,Office Supplies,Pen,5339,269.07,6,Rahul,Profit
+1336,2/20/2023,West,Furniture,Chair,22521,2310.3,10,Karan,Profit
+1337,6/17/2023,North,Office Supplies,Laptop,29727,1346.68,6,Karan,Profit
+1338,8/10/2023,South,Office Supplies,Printer,43497,-433.39,10,Ravi,Loss
+1339,5/7/2023,North,Furniture,Laptop,10307,-103.07,3,Karan,Loss
+1340,6/12/2023,East,Furniture,Chair,540,146.6,8,Neha,Profit
+1341,5/19/2023,North,Furniture,Chair,12480,193.31,9,Karan,Profit
+1342,2/22/2023,North,Furniture,Laptop,36521,-5604.8,10,Neha,Loss
+1343,7/17/2023,North,Technology,Mouse,25614,4856.02,9,Sneha,Profit
+1344,10/20/2023,South,Office Supplies,Mouse,11308,-1476.6,5,Ravi,Loss
+1345,9/10/2023,South,Furniture,Table,28686,-1779.08,5,Priya,Loss
+1346,2/9/2023,East,Technology,Table,47444,5338.25,10,Sneha,Profit
+1347,8/23/2023,North,Furniture,Laptop,643,176.45,6,Karan,Profit
+1348,6/18/2023,West,Technology,Mouse,42866,12307.37,3,Ravi,Profit
+1349,6/14/2023,South,Technology,Laptop,11841,3342.56,6,Ravi,Profit
+1350,12/22/2023,West,Office Supplies,Table,21557,-258.09,7,Neha,Loss
+1351,2/28/2023,South,Office Supplies,Printer,11991,1689.01,9,Rahul,Profit
+1352,8/25/2023,South,Technology,Laptop,45605,-7544.01,7,Priya,Loss
+1353,3/13/2023,East,Furniture,Laptop,43366,-5330.91,7,Karan,Loss
+1354,2/7/2023,West,Office Supplies,Mouse,38357,15.44,9,Karan,Profit
+1355,10/6/2023,North,Technology,Pen,35386,3429.26,2,Amit,Profit
+1356,5/8/2023,East,Furniture,Pen,40352,-7176.67,7,Neha,Loss
+1357,8/9/2023,North,Furniture,Chair,17156,-1526.87,9,Sneha,Loss
+1358,8/17/2023,East,Technology,Mouse,44735,4218.29,9,Pooja,Profit
+1359,6/26/2023,North,Technology,Chair,19561,156.25,2,Amit,Profit
+1360,3/14/2023,East,Technology,Laptop,30040,5771.74,9,Priya,Profit
+1361,6/28/2023,West,Furniture,Mouse,47516,7050.5,6,Amit,Profit
+1362,6/3/2023,North,Office Supplies,Chair,1680,377.31,2,Pooja,Profit
+1363,5/5/2023,South,Office Supplies,Table,21891,1749.63,8,Sneha,Profit
+1364,7/27/2023,South,Furniture,Pen,43277,695.34,1,Sneha,Profit
+1365,8/19/2023,West,Technology,Chair,46385,-4295.34,5,Amit,Loss
+1366,10/23/2023,North,Office Supplies,Table,24172,-894.55,8,Amit,Loss
+1367,5/15/2023,West,Office Supplies,Pen,20739,2042.49,10,Karan,Profit
+1368,10/28/2023,North,Technology,Laptop,30206,3282.83,5,Amit,Profit
+1369,12/11/2023,South,Technology,Chair,15835,-749.15,3,Neha,Loss
+1370,12/22/2023,South,Office Supplies,Mouse,27609,2711.56,10,Karan,Profit
+1371,8/5/2023,South,Technology,Pen,35417,5196.26,3,Pooja,Profit
+1372,9/8/2023,East,Furniture,Table,20816,4600.18,10,Rahul,Profit
+1373,7/3/2023,North,Technology,Table,12987,2696.2,9,Priya,Profit
+1374,7/29/2023,West,Technology,Pen,29288,1298.92,2,Rahul,Profit
+1375,4/23/2023,East,Furniture,Laptop,14935,1027.59,3,Priya,Profit
+1376,10/17/2023,West,Office Supplies,Printer,7619,657.95,5,Neha,Profit
+1377,10/5/2023,North,Office Supplies,Mouse,36005,-3266.7,7,Amit,Loss
+1378,12/1/2023,South,Technology,Chair,29673,-2035.34,2,Priya,Loss
+1379,3/2/2023,South,Furniture,Pen,38730,5599.07,10,Karan,Profit
+1380,3/26/2023,South,Furniture,Table,4090,347.8,9,Ravi,Profit
+1381,11/2/2023,South,Technology,Pen,19378,-1072.25,5,Amit,Loss
+1382,3/11/2023,West,Furniture,Laptop,43184,-5897.03,3,Sneha,Loss
+1383,3/16/2023,East,Furniture,Pen,25936,1160.1,10,Ravi,Profit
+1384,11/18/2023,West,Technology,Mouse,5149,601.47,2,Karan,Profit
+1385,9/21/2023,East,Office Supplies,Laptop,29998,8253.26,6,Rahul,Profit
+1386,2/17/2023,West,Office Supplies,Pen,45897,-958.73,2,Karan,Loss
+1387,4/22/2023,West,Furniture,Mouse,17798,-686.42,5,Neha,Loss
+1388,10/8/2023,South,Office Supplies,Mouse,22727,5615.33,1,Rahul,Profit
+1389,2/20/2023,West,Furniture,Chair,10553,217.85,1,Karan,Profit
+1390,4/14/2023,South,Office Supplies,Laptop,10618,2518.71,5,Amit,Profit
+1391,12/2/2023,East,Technology,Chair,24569,3249.36,3,Rahul,Profit
+1392,7/22/2023,East,Office Supplies,Pen,49694,-4121.03,2,Amit,Loss
+1393,1/1/2023,South,Technology,Chair,8896,861.49,9,Priya,Profit
+1394,1/5/2023,North,Office Supplies,Laptop,8103,2382.91,7,Pooja,Profit
+1395,9/2/2023,North,Furniture,Mouse,6054,1001.22,2,Amit,Profit
+1396,6/10/2023,East,Technology,Table,25282,4720.91,3,Pooja,Profit
+1397,2/5/2023,North,Office Supplies,Pen,10955,219.64,4,Pooja,Profit
+1398,7/30/2023,West,Furniture,Chair,6784,-881.88,2,Karan,Loss
+1399,6/29/2023,West,Technology,Table,16438,-1011.2,2,Sneha,Loss
+1400,10/11/2023,East,Office Supplies,Chair,43349,10313.32,4,Sneha,Profit
+1401,7/20/2023,East,Office Supplies,Chair,15885,753.65,2,Sneha,Profit
+1402,9/13/2023,North,Office Supplies,Chair,23864,6370.79,3,Karan,Profit
+1403,10/19/2023,West,Technology,Printer,44957,-5107.78,8,Amit,Loss
+1404,1/9/2023,North,Furniture,Laptop,14338,-2582.08,1,Karan,Loss
+1405,9/17/2023,East,Office Supplies,Pen,33036,6063.92,7,Karan,Profit
+1406,2/12/2023,South,Technology,Chair,20510,-3291.63,4,Pooja,Loss
+1407,10/2/2023,East,Technology,Printer,41769,7585.75,2,Ravi,Profit
+1408,12/24/2023,West,Office Supplies,Table,3994,-310.57,7,Amit,Loss
+1409,8/21/2023,North,Technology,Pen,48807,6297.38,3,Amit,Profit
+1410,1/7/2023,South,Office Supplies,Chair,10936,527.19,6,Ravi,Profit
+1411,3/27/2023,East,Furniture,Pen,17813,2965.29,2,Rahul,Profit
+1412,6/21/2023,West,Technology,Printer,4385,-300.48,10,Amit,Loss
+1413,9/12/2023,West,Office Supplies,Laptop,3833,190.9,10,Pooja,Profit
+1414,7/8/2023,South,Technology,Chair,37811,5182.38,2,Sneha,Profit
+1415,9/18/2023,North,Furniture,Chair,16226,-2872.15,6,Karan,Loss
+1416,3/18/2023,South,Furniture,Printer,46994,8004.62,7,Sneha,Profit
+1417,6/14/2023,South,Technology,Pen,21167,-1362.54,2,Neha,Loss
+1418,3/3/2023,North,Furniture,Table,34001,9884.33,7,Amit,Profit
+1419,8/27/2023,East,Technology,Laptop,5861,448.63,1,Neha,Profit
+1420,4/13/2023,East,Office Supplies,Laptop,48668,5419.61,8,Neha,Profit
+1421,10/30/2023,West,Furniture,Pen,36019,6492.1,4,Pooja,Profit
+1422,1/4/2023,West,Furniture,Table,35690,-956.07,1,Neha,Loss
+1423,1/1/2023,West,Office Supplies,Pen,20353,-3012.76,9,Sneha,Loss
+1424,8/3/2023,West,Furniture,Table,46838,-2814.37,1,Sneha,Loss
+1425,9/24/2023,West,Office Supplies,Laptop,30245,8688.7,2,Amit,Profit
+1426,9/16/2023,South,Office Supplies,Mouse,5104,489.72,1,Karan,Profit
+1427,12/6/2023,South,Furniture,Laptop,17304,3901.31,7,Neha,Profit
+1428,6/12/2023,West,Technology,Table,5094,1384.43,3,Amit,Profit
+1429,3/21/2023,North,Furniture,Mouse,30743,-1321.44,2,Neha,Loss
+1430,4/17/2023,West,Technology,Mouse,17567,3974.38,2,Pooja,Profit
+1431,12/18/2023,East,Office Supplies,Pen,39738,-7146.29,6,Pooja,Loss
+1432,2/16/2023,South,Technology,Mouse,33850,-5941.51,5,Ravi,Loss
+1433,3/31/2023,North,Technology,Mouse,36634,6375.75,4,Amit,Profit
+1434,8/25/2023,North,Furniture,Chair,983,-166.29,4,Pooja,Loss
+1435,4/12/2023,West,Technology,Pen,41507,11156.56,2,Ravi,Profit
+1436,2/8/2023,North,Furniture,Table,42535,923.68,3,Amit,Profit
+1437,6/19/2023,North,Furniture,Mouse,3518,-408.11,10,Karan,Loss
+1438,7/22/2023,West,Furniture,Mouse,44975,599.61,6,Sneha,Profit
+1439,4/6/2023,East,Technology,Mouse,9940,-1815.79,10,Sneha,Loss
+1440,11/28/2023,East,Technology,Mouse,36289,1433.98,2,Ravi,Profit
+1441,7/16/2023,South,Technology,Table,42316,10254.28,9,Sneha,Profit
+1442,11/19/2023,North,Technology,Pen,23734,945.62,8,Neha,Profit
+1443,10/17/2023,East,Technology,Laptop,11984,-2240.63,10,Sneha,Loss
+1444,1/16/2023,East,Furniture,Mouse,34896,-742.71,10,Sneha,Loss
+1445,3/23/2023,North,Furniture,Pen,16004,-1068.05,1,Sneha,Loss
+1446,10/22/2023,West,Technology,Table,11740,-959.44,6,Neha,Loss
+1447,10/30/2023,North,Office Supplies,Pen,23247,6364.55,10,Pooja,Profit
+1448,10/16/2023,South,Technology,Printer,20454,-2295.38,1,Amit,Loss
+1449,1/29/2023,South,Office Supplies,Table,1506,95.22,1,Neha,Profit
+1450,11/11/2023,South,Furniture,Laptop,47185,-5250.28,6,Rahul,Loss
+1451,1/12/2023,South,Office Supplies,Pen,9483,1775.06,9,Neha,Profit
+1452,2/7/2023,East,Office Supplies,Pen,26125,2429.84,6,Ravi,Profit
+1453,6/15/2023,South,Furniture,Pen,28830,5648.41,8,Neha,Profit
+1454,3/31/2023,East,Furniture,Pen,38797,8039.79,7,Ravi,Profit
+1455,12/19/2023,East,Furniture,Table,47964,-9549.68,10,Karan,Loss
+1456,10/18/2023,North,Furniture,Printer,21054,5484.97,10,Sneha,Profit
+1457,11/24/2023,North,Technology,Table,21903,3782.03,4,Neha,Profit
+1458,6/13/2023,South,Office Supplies,Chair,46662,6299.94,6,Priya,Profit
+1459,1/6/2023,East,Furniture,Table,45627,-7578.76,5,Amit,Loss
+1460,1/1/2023,North,Technology,Mouse,48210,473.74,3,Karan,Profit
+1461,9/10/2023,West,Technology,Printer,24798,-3701.99,8,Sneha,Loss
+1462,3/25/2023,West,Furniture,Chair,19527,-3709.37,5,Amit,Loss
+1463,2/7/2023,East,Furniture,Mouse,10745,1783.59,9,Amit,Profit
+1464,6/23/2023,West,Office Supplies,Chair,28467,7720.85,3,Karan,Profit
+1465,3/22/2023,North,Furniture,Laptop,13670,3926.01,7,Ravi,Profit
+1466,12/5/2023,East,Technology,Table,6485,-1136.06,10,Priya,Loss
+1467,3/20/2023,North,Technology,Chair,28223,-4408.03,10,Priya,Loss
+1468,4/13/2023,North,Furniture,Table,11395,1357.09,2,Priya,Profit
+1469,3/1/2023,East,Technology,Mouse,32253,7980.64,5,Amit,Profit
+1470,11/25/2023,West,Furniture,Laptop,25198,-385.51,8,Rahul,Loss
+1471,5/15/2023,West,Technology,Laptop,15027,3283.99,10,Rahul,Profit
+1472,3/19/2023,North,Furniture,Pen,22730,4638.97,7,Sneha,Profit
+1473,10/11/2023,North,Technology,Printer,27635,7815.56,8,Sneha,Profit
+1474,9/1/2023,East,Furniture,Mouse,47012,-8586.07,10,Pooja,Loss
+1475,3/3/2023,West,Furniture,Table,14086,2876.79,3,Rahul,Profit
+1476,8/5/2023,North,Office Supplies,Mouse,13432,4011.26,3,Ravi,Profit
+1477,6/13/2023,North,Furniture,Mouse,36661,-48.48,6,Ravi,Loss
+1478,9/24/2023,West,Furniture,Pen,41032,3848.31,7,Amit,Profit
+1479,8/1/2023,South,Furniture,Printer,38730,3537.54,2,Amit,Profit
+1480,10/16/2023,North,Technology,Printer,22735,5432.46,5,Karan,Profit
+1481,12/2/2023,West,Office Supplies,Printer,31201,-5655.72,5,Karan,Loss
+1482,3/15/2023,West,Furniture,Mouse,21924,3184.61,1,Priya,Profit
+1483,5/18/2023,East,Furniture,Laptop,20061,-893.22,8,Amit,Loss
+1484,4/27/2023,South,Technology,Pen,29239,5468.14,6,Ravi,Profit
+1485,8/2/2023,North,Furniture,Mouse,14053,3607.64,7,Priya,Profit
+1486,9/22/2023,East,Furniture,Printer,10618,-1775.24,9,Karan,Loss
+1487,3/11/2023,North,Furniture,Table,13354,2917.69,4,Rahul,Profit
+1488,8/22/2023,North,Technology,Pen,13248,-834.77,8,Karan,Loss
+1489,11/22/2023,North,Office Supplies,Chair,16055,-221.02,10,Priya,Loss
+1490,4/1/2023,West,Office Supplies,Printer,23121,-644.51,5,Amit,Loss
+1491,5/26/2023,North,Technology,Chair,10876,2467.88,4,Sneha,Profit
+1492,11/28/2023,South,Office Supplies,Table,17834,2243.4,9,Rahul,Profit
+1493,12/16/2023,North,Technology,Table,42626,-4833.77,1,Sneha,Loss
+1494,5/10/2023,East,Office Supplies,Pen,42322,-2637.11,7,Neha,Loss
+1495,8/24/2023,East,Furniture,Mouse,20001,2772.1,10,Karan,Profit
+1496,10/27/2023,North,Furniture,Printer,43608,12351.65,6,Ravi,Profit
+1497,6/2/2023,North,Technology,Chair,22238,6541.99,6,Ravi,Profit
+1498,5/14/2023,East,Furniture,Table,34101,6231.52,1,Karan,Profit
+1499,12/5/2023,East,Office Supplies,Table,47470,-8889.82,8,Ravi,Loss
+1500,5/13/2023,West,Technology,Mouse,48482,-8840.23,10,Sneha,Loss
+1501,6/25/2023,South,Office Supplies,Printer,42032,8089,6,Ravi,Profit
+1502,3/29/2023,South,Technology,Chair,31053,-4224.08,5,Pooja,Loss
+1503,12/15/2023,East,Office Supplies,Chair,14765,-330.12,5,Karan,Loss
+1504,6/19/2023,East,Technology,Printer,19470,620.71,2,Priya,Profit
+1505,1/28/2023,North,Technology,Table,32999,-4622.9,7,Ravi,Loss
+1506,7/31/2023,North,Furniture,Table,13326,-381.99,10,Priya,Loss
+1507,3/15/2023,East,Office Supplies,Table,5496,240.67,3,Neha,Profit
+1508,11/21/2023,North,Furniture,Mouse,18125,-1727.47,3,Pooja,Loss
+1509,9/8/2023,North,Furniture,Printer,28623,3341.56,7,Karan,Profit
+1510,9/2/2023,West,Furniture,Chair,35181,-3528.4,6,Rahul,Loss
+1511,6/14/2023,South,Furniture,Pen,470,53.27,4,Sneha,Profit
+1512,12/22/2023,East,Technology,Table,6931,-57.01,10,Ravi,Loss
+1513,3/27/2023,North,Furniture,Laptop,19259,538.54,9,Neha,Profit
+1514,8/11/2023,South,Technology,Mouse,23743,4156.4,3,Karan,Profit
+1515,1/10/2023,South,Furniture,Pen,8798,-830.57,1,Pooja,Loss
+1516,3/5/2023,East,Office Supplies,Pen,2648,-32.85,5,Rahul,Loss
+1517,11/1/2023,North,Office Supplies,Chair,43032,9383.56,1,Amit,Profit
+1518,8/2/2023,West,Technology,Chair,36066,-2655.57,3,Sneha,Loss
+1519,12/22/2023,North,Technology,Mouse,43562,-6512.96,9,Ravi,Loss
+1520,11/15/2023,South,Technology,Chair,33727,5375.51,2,Ravi,Profit
+1521,2/28/2023,North,Technology,Table,40111,-4016.13,5,Sneha,Loss
+1522,7/3/2023,West,Technology,Table,2782,206.06,4,Priya,Profit
+1523,6/19/2023,South,Furniture,Chair,44216,-6875.53,2,Priya,Loss
+1524,3/18/2023,North,Office Supplies,Chair,47619,7704.19,5,Sneha,Profit
+1525,8/22/2023,East,Technology,Mouse,3482,-522.63,3,Rahul,Loss
+1526,5/29/2023,East,Office Supplies,Laptop,28118,4759.54,2,Rahul,Profit
+1527,1/5/2023,South,Office Supplies,Pen,11374,-405.71,8,Ravi,Loss
+1528,2/17/2023,East,Technology,Table,7660,2.98,8,Ravi,Profit
+1529,7/17/2023,West,Technology,Pen,11130,-1596.84,1,Pooja,Loss
+1530,2/23/2023,West,Office Supplies,Mouse,37486,5217.92,3,Karan,Profit
+1531,7/3/2023,North,Office Supplies,Pen,8762,363.97,8,Amit,Profit
+1532,7/30/2023,West,Furniture,Chair,17345,2211.26,1,Sneha,Profit
+1533,12/9/2023,East,Office Supplies,Printer,45304,6808.74,2,Karan,Profit
+1534,12/5/2023,South,Technology,Laptop,43696,6036.51,7,Pooja,Profit
+1535,10/13/2023,North,Furniture,Pen,10484,553.39,8,Priya,Profit
+1536,3/26/2023,North,Technology,Laptop,15987,-552.39,5,Rahul,Loss
+1537,9/17/2023,South,Office Supplies,Pen,25014,40.99,4,Amit,Profit
+1538,8/24/2023,West,Office Supplies,Mouse,5968,1362.46,8,Neha,Profit
+1539,3/2/2023,West,Office Supplies,Pen,1364,-202.8,7,Rahul,Loss
+1540,10/13/2023,North,Furniture,Printer,40771,4842.33,9,Sneha,Profit
+1541,12/2/2023,West,Technology,Laptop,3756,782.35,8,Neha,Profit
+1542,10/14/2023,West,Office Supplies,Pen,24008,3792.23,2,Amit,Profit
+1543,12/4/2023,South,Furniture,Laptop,23474,5045.55,5,Neha,Profit
+1544,12/26/2023,North,Furniture,Table,32471,-4213.94,7,Amit,Loss
+1545,5/11/2023,South,Furniture,Chair,25948,-2392.54,4,Neha,Loss
+1546,2/25/2023,West,Furniture,Pen,44249,4177.35,8,Priya,Profit
+1547,12/4/2023,South,Technology,Chair,34957,5876.52,9,Karan,Profit
+1548,10/27/2023,West,Office Supplies,Table,45538,4065.5,3,Amit,Profit
+1549,7/18/2023,East,Office Supplies,Mouse,27637,8007.83,4,Ravi,Profit
+1550,7/23/2023,East,Technology,Mouse,8940,-1170.34,10,Ravi,Loss
+1551,12/26/2023,East,Office Supplies,Pen,36479,4242.2,4,Sneha,Profit
+1552,11/16/2023,East,Office Supplies,Laptop,44264,-5916.51,3,Neha,Loss
+1553,12/30/2023,North,Technology,Printer,31681,2895.74,7,Ravi,Profit
+1554,8/5/2023,North,Office Supplies,Chair,1856,-17.75,1,Rahul,Loss
+1555,4/13/2023,East,Furniture,Laptop,44986,-3361.33,1,Ravi,Loss
+1556,4/15/2023,North,Technology,Mouse,6916,747.3,9,Sneha,Profit
+1557,11/28/2023,West,Furniture,Printer,45821,-2574.25,1,Karan,Loss
+1558,7/18/2023,West,Office Supplies,Laptop,36384,-6298.03,5,Sneha,Loss
+1559,11/14/2023,West,Furniture,Pen,46378,7178.05,6,Sneha,Profit
+1560,4/10/2023,East,Technology,Table,44938,-7314.36,3,Amit,Loss
+1561,7/13/2023,North,Technology,Laptop,36677,-2489.64,3,Ravi,Loss
+1562,1/3/2023,East,Technology,Pen,10345,-1862.41,6,Rahul,Loss
+1563,11/17/2023,East,Technology,Printer,36255,-759.8,6,Sneha,Loss
+1564,4/5/2023,North,Office Supplies,Table,27458,1964.35,7,Amit,Profit
+1565,6/28/2023,South,Furniture,Pen,21950,-756.54,5,Sneha,Loss
+1566,11/13/2023,West,Office Supplies,Pen,776,-110.69,6,Priya,Loss
+1567,5/4/2023,South,Furniture,Pen,21232,-197.75,2,Karan,Loss
+1568,5/12/2023,East,Furniture,Printer,24773,1415.89,9,Priya,Profit
+1569,9/7/2023,North,Technology,Pen,12816,-510.64,2,Amit,Loss
+1570,3/27/2023,North,Office Supplies,Chair,14013,1894.1,4,Karan,Profit
+1571,2/23/2023,South,Office Supplies,Pen,48786,9152.42,2,Pooja,Profit
+1572,1/13/2023,West,Office Supplies,Laptop,2682,-419.03,1,Pooja,Loss
+1573,5/9/2023,North,Office Supplies,Table,17150,65.45,8,Karan,Profit
+1574,8/10/2023,East,Furniture,Mouse,44325,-6243.05,1,Amit,Loss
+1575,10/27/2023,North,Office Supplies,Chair,23642,6242.05,2,Ravi,Profit
+1576,12/18/2023,East,Office Supplies,Chair,18649,3406,8,Karan,Profit
+1577,7/22/2023,North,Technology,Table,35161,-3166.85,7,Ravi,Loss
+1578,11/21/2023,South,Technology,Pen,47997,5950.2,1,Pooja,Profit
+1579,3/5/2023,North,Furniture,Printer,39302,-116.3,9,Amit,Loss
+1580,6/6/2023,South,Office Supplies,Pen,47775,-1341.24,7,Pooja,Loss
+1581,3/24/2023,South,Furniture,Printer,16763,-1723.85,3,Rahul,Loss
+1582,10/9/2023,West,Office Supplies,Printer,4993,-272.99,2,Ravi,Loss
+1583,2/20/2023,South,Office Supplies,Printer,32128,8859.94,6,Pooja,Profit
+1584,12/10/2023,South,Furniture,Laptop,40800,-6735.9,4,Neha,Loss
+1585,9/6/2023,West,Technology,Printer,43415,-2047.55,10,Pooja,Loss
+1586,10/17/2023,East,Technology,Mouse,11251,-2223.02,4,Sneha,Loss
+1587,12/31/2023,West,Technology,Laptop,9001,1258.25,6,Priya,Profit
+1588,8/25/2023,West,Technology,Laptop,32114,2435.39,3,Amit,Profit
+1589,5/24/2023,South,Office Supplies,Table,17451,2910.34,2,Amit,Profit
+1590,1/10/2023,North,Office Supplies,Printer,26750,4938.05,4,Rahul,Profit
+1591,10/10/2023,East,Office Supplies,Printer,31139,3953.22,3,Neha,Profit
+1592,7/20/2023,South,Office Supplies,Pen,19270,-2564.05,9,Amit,Loss
+1593,7/23/2023,East,Office Supplies,Chair,43629,-3514.73,10,Pooja,Loss
+1594,9/21/2023,South,Technology,Table,11940,993.15,10,Pooja,Profit
+1595,9/5/2023,East,Furniture,Table,32158,-2705.29,5,Neha,Loss
+1596,4/30/2023,North,Office Supplies,Table,34140,8666.88,6,Karan,Profit
+1597,8/29/2023,West,Furniture,Chair,42701,-1621.12,9,Ravi,Loss
+1598,5/15/2023,South,Technology,Pen,25006,-433.89,2,Ravi,Loss
+1599,7/12/2023,South,Office Supplies,Mouse,23327,4866.44,6,Priya,Profit
+1600,9/4/2023,North,Office Supplies,Table,29029,-3402.11,2,Ravi,Loss
+1601,4/19/2023,South,Furniture,Table,23938,2417.98,2,Sneha,Profit
+1602,8/1/2023,East,Office Supplies,Chair,31756,4370.09,8,Sneha,Profit
+1603,10/30/2023,South,Office Supplies,Mouse,1671,-130.61,3,Pooja,Loss
+1604,3/10/2023,North,Office Supplies,Table,3864,-451.43,3,Karan,Loss
+1605,11/3/2023,North,Office Supplies,Pen,43568,9177.67,2,Sneha,Profit
+1606,8/18/2023,West,Technology,Table,14576,3136.49,10,Pooja,Profit
+1607,10/26/2023,South,Office Supplies,Pen,33676,-2281.2,6,Priya,Loss
+1608,11/2/2023,North,Furniture,Mouse,25461,-3409.06,1,Sneha,Loss
+1609,9/25/2023,West,Furniture,Printer,6511,-724.6,10,Rahul,Loss
+1610,9/30/2023,North,Furniture,Mouse,43413,-5853.62,10,Rahul,Loss
+1611,12/14/2023,West,Office Supplies,Mouse,24473,5810.19,9,Karan,Profit
+1612,4/28/2023,West,Technology,Laptop,38803,7850.26,10,Amit,Profit
+1613,8/6/2023,South,Technology,Mouse,15437,3937.09,2,Ravi,Profit
+1614,11/3/2023,West,Technology,Table,558,86.25,1,Amit,Profit
+1615,9/24/2023,North,Technology,Pen,13662,1965.73,6,Karan,Profit
+1616,7/5/2023,North,Furniture,Mouse,42901,3976.28,5,Karan,Profit
+1617,10/17/2023,East,Office Supplies,Laptop,44804,-57.03,4,Karan,Loss
+1618,10/10/2023,West,Furniture,Laptop,36840,2853.47,5,Ravi,Profit
+1619,10/23/2023,East,Office Supplies,Mouse,48420,-6341.36,2,Sneha,Loss
+1620,8/17/2023,South,Furniture,Table,33514,9.4,6,Rahul,Profit
+1621,3/24/2023,West,Office Supplies,Chair,6169,1305.53,8,Karan,Profit
+1622,2/15/2023,North,Technology,Table,24503,-3919.99,1,Karan,Loss
+1623,7/25/2023,East,Office Supplies,Printer,3965,1081.88,3,Priya,Profit
+1624,8/13/2023,North,Furniture,Pen,34157,-1946.84,1,Sneha,Loss
+1625,11/11/2023,South,Office Supplies,Chair,23775,-1910.84,1,Pooja,Loss
+1626,2/14/2023,East,Technology,Laptop,44086,-107.06,10,Sneha,Loss
+1627,9/23/2023,North,Office Supplies,Pen,4696,1219.03,9,Ravi,Profit
+1628,10/14/2023,East,Technology,Laptop,15030,1550.82,4,Priya,Profit
+1629,7/26/2023,North,Technology,Table,26881,1427.89,9,Amit,Profit
+1630,9/15/2023,East,Technology,Chair,33838,9418.97,9,Ravi,Profit
+1631,12/22/2023,West,Technology,Printer,31895,5900.05,6,Priya,Profit
+1632,12/15/2023,West,Office Supplies,Chair,31786,-4509.35,2,Karan,Loss
+1633,11/21/2023,South,Office Supplies,Pen,15268,3054.83,7,Neha,Profit
+1634,9/22/2023,North,Office Supplies,Laptop,16469,-928.11,7,Neha,Loss
+1635,2/8/2023,South,Technology,Laptop,23369,-2119.96,10,Ravi,Loss
+1636,4/4/2023,South,Technology,Pen,13285,-1096.93,4,Ravi,Loss
+1637,4/16/2023,South,Furniture,Table,40740,-895.72,2,Amit,Loss
+1638,2/10/2023,West,Office Supplies,Chair,35686,9956.27,8,Neha,Profit
+1639,11/14/2023,East,Technology,Printer,18204,826.51,9,Ravi,Profit
+1640,7/23/2023,South,Office Supplies,Table,3748,235.63,7,Priya,Profit
+1641,10/4/2023,North,Office Supplies,Laptop,26002,5985.66,3,Priya,Profit
+1642,3/3/2023,West,Technology,Pen,751,-145.76,4,Karan,Loss
+1643,10/25/2023,North,Technology,Laptop,40359,9319.74,3,Ravi,Profit
+1644,5/2/2023,East,Technology,Printer,22685,-386.51,8,Karan,Loss
+1645,4/18/2023,West,Office Supplies,Laptop,24125,5480.31,5,Priya,Profit
+1646,4/3/2023,South,Office Supplies,Pen,15179,3143.5,5,Sneha,Profit
+1647,10/12/2023,West,Technology,Table,9758,1951.78,3,Priya,Profit
+1648,1/5/2023,South,Technology,Mouse,9012,2683.6,9,Neha,Profit
+1649,9/7/2023,East,Technology,Printer,37413,-6590.13,2,Pooja,Loss
+1650,1/31/2023,South,Technology,Mouse,41478,-6298.4,6,Ravi,Loss
+1651,7/4/2023,East,Office Supplies,Printer,17089,-477.29,7,Amit,Loss
+1652,6/29/2023,South,Office Supplies,Printer,42789,5330.03,3,Ravi,Profit
+1653,7/1/2023,East,Office Supplies,Printer,32148,6023.64,8,Amit,Profit
+1654,7/15/2023,East,Technology,Pen,9692,2269.18,6,Karan,Profit
+1655,11/20/2023,West,Furniture,Chair,10816,-304.87,6,Neha,Loss
+1656,12/1/2023,East,Office Supplies,Laptop,39874,4877.47,5,Priya,Profit
+1657,7/5/2023,West,Technology,Table,12251,2782.27,3,Sneha,Profit
+1658,12/5/2023,East,Office Supplies,Pen,49334,-7891.84,3,Karan,Loss
+1659,2/22/2023,North,Furniture,Mouse,36142,-6255.72,7,Amit,Loss
+1660,2/23/2023,East,Office Supplies,Table,5725,729.46,7,Ravi,Profit
+1661,4/28/2023,South,Office Supplies,Laptop,29242,3311.37,3,Pooja,Profit
+1662,1/15/2023,North,Office Supplies,Laptop,21512,4993.38,8,Ravi,Profit
+1663,10/8/2023,West,Furniture,Pen,35542,-3962.28,10,Priya,Loss
+1664,11/20/2023,West,Office Supplies,Pen,42112,2816.96,6,Priya,Profit
+1665,10/4/2023,South,Furniture,Mouse,20376,-348.6,5,Pooja,Loss
+1666,6/5/2023,North,Furniture,Printer,49895,11175.15,6,Ravi,Profit
+1667,8/29/2023,North,Office Supplies,Mouse,49710,1915.5,1,Karan,Profit
+1668,5/30/2023,South,Furniture,Printer,24687,-2609.77,9,Karan,Loss
+1669,7/22/2023,South,Furniture,Pen,48507,5966.14,7,Sneha,Profit
+1670,5/15/2023,North,Technology,Pen,15899,926.99,10,Ravi,Profit
+1671,5/26/2023,East,Technology,Table,4686,-509.82,5,Amit,Loss
+1672,11/23/2023,West,Office Supplies,Mouse,18034,2709.36,8,Sneha,Profit
+1673,6/14/2023,North,Furniture,Chair,35259,-6661.64,2,Ravi,Loss
+1674,5/18/2023,South,Office Supplies,Mouse,47851,-9373.91,2,Pooja,Loss
+1675,1/8/2023,West,Furniture,Laptop,27741,-1226.48,8,Neha,Loss
+1676,8/26/2023,North,Technology,Chair,49389,13622.57,1,Ravi,Profit
+1677,7/20/2023,North,Office Supplies,Mouse,12101,-1257.34,5,Karan,Loss
+1678,1/7/2023,North,Office Supplies,Table,25418,4717.9,8,Sneha,Profit
+1679,1/18/2023,South,Technology,Pen,6357,385.04,4,Priya,Profit
+1680,7/19/2023,East,Technology,Table,41432,6799.76,9,Amit,Profit
+1681,5/10/2023,West,Office Supplies,Laptop,13223,-261.64,1,Sneha,Loss
+1682,2/27/2023,South,Office Supplies,Mouse,21467,-4131.67,5,Amit,Loss
+1683,7/22/2023,South,Furniture,Chair,38281,7339.91,8,Pooja,Profit
+1684,7/10/2023,North,Furniture,Table,32962,-5086.01,10,Neha,Loss
+1685,11/17/2023,North,Furniture,Laptop,42442,-5222.1,9,Amit,Loss
+1686,3/6/2023,West,Furniture,Laptop,36792,7147.98,6,Priya,Profit
+1687,4/9/2023,North,Office Supplies,Mouse,23672,3839.59,5,Rahul,Profit
+1688,9/6/2023,West,Office Supplies,Laptop,35768,5312.22,4,Pooja,Profit
+1689,10/6/2023,East,Technology,Pen,30896,-1925.99,10,Pooja,Loss
+1690,2/5/2023,South,Technology,Laptop,17458,1236.08,8,Rahul,Profit
+1691,11/23/2023,West,Office Supplies,Table,1426,156.67,6,Sneha,Profit
+1692,6/14/2023,North,Office Supplies,Printer,25594,-2689.04,8,Pooja,Loss
+1693,11/10/2023,East,Technology,Mouse,42202,-1645.37,2,Amit,Loss
+1694,1/23/2023,South,Furniture,Chair,13443,-1969.03,4,Amit,Loss
+1695,1/17/2023,West,Office Supplies,Mouse,34660,3881.41,10,Ravi,Profit
+1696,1/26/2023,East,Furniture,Printer,47244,-7774.62,4,Priya,Loss
+1697,2/10/2023,West,Office Supplies,Chair,23853,1884.62,7,Neha,Profit
+1698,12/29/2023,North,Office Supplies,Laptop,34869,-6265.03,2,Ravi,Loss
+1699,2/9/2023,South,Office Supplies,Chair,6833,1110.95,9,Karan,Profit
+1700,4/8/2023,South,Office Supplies,Pen,16502,1402.9,3,Karan,Profit
+1701,2/24/2023,East,Office Supplies,Mouse,46242,6132.67,2,Pooja,Profit
+1702,4/3/2023,West,Office Supplies,Laptop,43292,-5234.51,10,Priya,Loss
+1703,6/30/2023,East,Office Supplies,Laptop,24561,151.58,7,Neha,Profit
+1704,11/8/2023,South,Office Supplies,Printer,14219,-177.29,9,Ravi,Loss
+1705,7/4/2023,West,Technology,Mouse,212,34.59,5,Rahul,Profit
+1706,9/23/2023,South,Technology,Chair,19882,5809.46,4,Neha,Profit
+1707,1/12/2023,East,Office Supplies,Printer,36659,3128.26,10,Pooja,Profit
+1708,2/18/2023,North,Technology,Laptop,10430,-1364.2,6,Sneha,Loss
+1709,4/30/2023,East,Technology,Chair,37587,-3.79,4,Amit,Loss
+1710,6/16/2023,West,Furniture,Mouse,45393,6873.59,2,Ravi,Profit
+1711,1/20/2023,West,Furniture,Chair,22114,-575.74,7,Karan,Loss
+1712,3/3/2023,South,Office Supplies,Pen,39672,10486.36,7,Rahul,Profit
+1713,6/6/2023,North,Technology,Printer,37222,-4660.57,9,Sneha,Loss
+1714,3/20/2023,North,Office Supplies,Pen,25947,7408.39,10,Amit,Profit
+1715,4/24/2023,West,Technology,Mouse,9900,-1325.66,2,Priya,Loss
+1716,10/20/2023,North,Office Supplies,Mouse,17406,-2740.76,9,Karan,Loss
+1717,12/24/2023,South,Furniture,Mouse,36854,-3720.25,7,Sneha,Loss
+1718,10/15/2023,South,Furniture,Chair,17649,3324.82,6,Amit,Profit
+1719,2/27/2023,West,Technology,Laptop,23026,-2412.09,6,Rahul,Loss
+1720,6/6/2023,South,Technology,Printer,29180,3256.23,8,Rahul,Profit
+1721,4/30/2023,South,Office Supplies,Laptop,10423,1864.33,2,Amit,Profit
+1722,1/28/2023,South,Office Supplies,Table,19053,-3679.77,2,Ravi,Loss
+1723,8/19/2023,West,Furniture,Laptop,13897,2362.58,4,Sneha,Profit
+1724,10/7/2023,East,Office Supplies,Mouse,41031,6768.55,3,Rahul,Profit
+1725,7/12/2023,North,Technology,Table,4139,-240.03,10,Ravi,Loss
+1726,1/28/2023,West,Office Supplies,Chair,4564,-25.91,5,Neha,Loss
+1727,2/25/2023,North,Technology,Pen,25531,-2155.22,7,Amit,Loss
+1728,6/11/2023,West,Office Supplies,Printer,5968,-637.33,9,Priya,Loss
+1729,10/15/2023,North,Furniture,Table,34895,-1658.78,8,Karan,Loss
+1730,3/22/2023,North,Technology,Pen,23262,-519,5,Sneha,Loss
+1731,9/14/2023,East,Furniture,Pen,17087,4089.58,1,Ravi,Profit
+1732,4/26/2023,South,Technology,Mouse,43252,-5682,7,Sneha,Loss
+1733,8/2/2023,South,Office Supplies,Table,28148,8029.74,10,Neha,Profit
+1734,8/18/2023,South,Furniture,Pen,9281,840.07,4,Pooja,Profit
+1735,6/8/2023,South,Technology,Table,43206,11515.05,3,Neha,Profit
+1736,2/4/2023,North,Furniture,Laptop,9736,1592.22,6,Karan,Profit
+1737,7/30/2023,East,Technology,Pen,41936,11181.19,5,Pooja,Profit
+1738,4/7/2023,North,Furniture,Table,1916,347.22,10,Ravi,Profit
+1739,11/7/2023,South,Office Supplies,Table,15333,2203.18,6,Amit,Profit
+1740,12/19/2023,West,Furniture,Printer,39830,1369.43,6,Pooja,Profit
+1741,7/18/2023,West,Technology,Table,10933,-1130.15,1,Karan,Loss
+1742,1/8/2023,East,Technology,Table,48851,6627.59,4,Sneha,Profit
+1743,2/3/2023,South,Technology,Printer,32308,4650.13,8,Sneha,Profit
+1744,8/7/2023,West,Furniture,Printer,48390,10266.63,6,Karan,Profit
+1745,11/10/2023,North,Office Supplies,Chair,29796,847.7,1,Sneha,Profit
+1746,9/23/2023,West,Office Supplies,Chair,36749,-231.56,1,Sneha,Loss
+1747,5/30/2023,West,Technology,Laptop,18937,580.87,7,Ravi,Profit
+1748,11/10/2023,North,Office Supplies,Printer,9521,302.67,8,Amit,Profit
+1749,9/14/2023,North,Furniture,Printer,45820,3354.19,7,Karan,Profit
+1750,6/15/2023,West,Furniture,Table,29932,2848.26,4,Priya,Profit
+1751,2/16/2023,East,Technology,Pen,42705,10829.19,3,Amit,Profit
+1752,2/16/2023,North,Office Supplies,Mouse,41754,-773.63,9,Karan,Loss
+1753,9/19/2023,South,Technology,Printer,25143,-4476.63,3,Neha,Loss
+1754,10/17/2023,South,Furniture,Table,11922,2200.54,1,Karan,Profit
+1755,6/7/2023,East,Office Supplies,Mouse,19125,2165.46,2,Pooja,Profit
+1756,4/14/2023,North,Office Supplies,Laptop,1000,29.32,8,Rahul,Profit
+1757,11/8/2023,West,Furniture,Table,38791,5032.56,8,Karan,Profit
+1758,8/15/2023,North,Office Supplies,Printer,630,-48.92,9,Ravi,Loss
+1759,11/14/2023,South,Furniture,Table,9916,-1710.19,6,Rahul,Loss
+1760,3/16/2023,North,Office Supplies,Printer,39736,-2017.76,2,Rahul,Loss
+1761,2/25/2023,West,Furniture,Table,44246,-2557.85,10,Pooja,Loss
+1762,8/22/2023,East,Furniture,Chair,19814,-764.6,7,Amit,Loss
+1763,8/7/2023,North,Technology,Mouse,9017,-1253.26,5,Neha,Loss
+1764,9/27/2023,West,Office Supplies,Table,45801,-4372.83,1,Amit,Loss
+1765,10/20/2023,North,Technology,Pen,45331,4641.4,5,Karan,Profit
+1766,11/8/2023,East,Technology,Printer,37892,11273.33,6,Pooja,Profit
+1767,11/11/2023,West,Office Supplies,Pen,41609,2033.46,3,Sneha,Profit
+1768,12/29/2023,East,Furniture,Chair,7946,-1493.9,2,Sneha,Loss
+1769,11/12/2023,West,Technology,Chair,22075,-555.74,4,Rahul,Loss
+1770,11/24/2023,South,Office Supplies,Laptop,16873,3291.88,5,Ravi,Profit
+1771,9/17/2023,East,Furniture,Chair,45146,-1506.01,7,Rahul,Loss
+1772,3/31/2023,South,Technology,Laptop,44271,1751.1,8,Rahul,Profit
+1773,11/27/2023,South,Technology,Table,41304,1251.88,9,Neha,Profit
+1774,8/25/2023,West,Office Supplies,Chair,34349,-1728.72,6,Rahul,Loss
+1775,4/17/2023,East,Technology,Chair,9984,-596.74,1,Neha,Loss
+1776,7/12/2023,South,Office Supplies,Printer,25730,-2735.37,2,Ravi,Loss
+1777,12/28/2023,East,Office Supplies,Chair,17992,124.77,8,Sneha,Profit
+1778,7/10/2023,West,Technology,Table,34612,-1690.48,2,Neha,Loss
+1779,1/20/2023,South,Furniture,Mouse,33360,-6256.09,8,Pooja,Loss
+1780,4/8/2023,East,Technology,Pen,34516,-1547.03,6,Pooja,Loss
+1781,2/20/2023,South,Furniture,Pen,2595,77.03,9,Amit,Profit
+1782,1/3/2023,East,Furniture,Pen,39147,9236.25,6,Priya,Profit
+1783,1/24/2023,North,Office Supplies,Pen,49060,-2146.85,10,Ravi,Loss
+1784,11/24/2023,South,Technology,Table,12818,-726.99,9,Neha,Loss
+1785,8/14/2023,North,Technology,Table,10521,-664.73,1,Amit,Loss
+1786,4/16/2023,East,Office Supplies,Laptop,17963,-2321.21,5,Sneha,Loss
+1787,3/29/2023,North,Technology,Printer,22399,1574.39,1,Pooja,Profit
+1788,1/15/2023,West,Office Supplies,Chair,7142,-58.57,2,Karan,Loss
+1789,7/20/2023,South,Office Supplies,Printer,39046,4479.96,8,Neha,Profit
+1790,6/9/2023,East,Furniture,Pen,49902,6758.48,9,Amit,Profit
+1791,8/27/2023,South,Furniture,Pen,30888,-4675.47,5,Priya,Loss
+1792,8/29/2023,South,Furniture,Table,40631,-2883.73,6,Karan,Loss
+1793,4/4/2023,East,Technology,Mouse,32149,-5943.32,8,Amit,Loss
+1794,6/29/2023,West,Technology,Table,18698,3439.89,10,Pooja,Profit
+1795,9/18/2023,North,Technology,Pen,7211,-267.28,2,Ravi,Loss
+1796,9/30/2023,West,Technology,Printer,27295,-2203.04,4,Pooja,Loss
+1797,9/4/2023,West,Furniture,Laptop,13847,2865.75,10,Karan,Profit
+1798,8/11/2023,East,Office Supplies,Pen,15676,-1778.56,2,Priya,Loss
+1799,2/28/2023,West,Technology,Printer,6599,1392.47,3,Ravi,Profit
+1800,7/27/2023,North,Office Supplies,Chair,45125,9342.38,7,Neha,Profit
+1801,9/11/2023,North,Furniture,Table,9304,2266.74,1,Pooja,Profit
+1802,12/5/2023,South,Technology,Printer,19303,-96.68,10,Priya,Loss
+1803,4/11/2023,South,Office Supplies,Laptop,19843,1689.4,5,Karan,Profit
+1804,6/26/2023,North,Office Supplies,Chair,40274,11808.77,7,Pooja,Profit
+1805,5/31/2023,North,Technology,Printer,3681,-734.65,9,Neha,Loss
+1806,2/26/2023,East,Furniture,Table,28492,4305.45,7,Neha,Profit
+1807,12/31/2023,West,Technology,Mouse,28720,2083.91,3,Priya,Profit
+1808,3/13/2023,South,Office Supplies,Mouse,23811,5237.98,3,Ravi,Profit
+1809,12/10/2023,South,Furniture,Chair,4901,608.68,3,Priya,Profit
+1810,12/3/2023,West,Furniture,Chair,9192,1113.35,7,Priya,Profit
+1811,12/23/2023,West,Office Supplies,Table,29979,1640.07,9,Priya,Profit
+1812,7/16/2023,East,Furniture,Table,28037,2867.81,10,Priya,Profit
+1813,5/2/2023,East,Technology,Printer,37971,-627.09,1,Priya,Loss
+1814,12/27/2023,East,Furniture,Printer,31757,8919.55,2,Pooja,Profit
+1815,9/27/2023,East,Technology,Printer,5327,328.56,10,Amit,Profit
+1816,5/6/2023,West,Office Supplies,Pen,43698,12244.42,2,Ravi,Profit
+1817,11/10/2023,North,Technology,Printer,906,31.2,9,Priya,Profit
+1818,10/21/2023,East,Technology,Laptop,19508,-1080.66,1,Ravi,Loss
+1819,10/16/2023,East,Furniture,Pen,31209,2779.8,10,Rahul,Profit
+1820,12/3/2023,East,Office Supplies,Printer,1989,-112.56,2,Pooja,Loss
+1821,9/16/2023,North,Technology,Laptop,8886,958.79,5,Ravi,Profit
+1822,1/8/2023,North,Office Supplies,Table,38982,6606.81,8,Neha,Profit
+1823,3/31/2023,East,Office Supplies,Table,31979,-3504.75,9,Rahul,Loss
+1824,6/25/2023,North,Furniture,Printer,10302,2254.15,7,Karan,Profit
+1825,5/2/2023,West,Office Supplies,Pen,11163,-1055.7,6,Rahul,Loss
+1826,11/25/2023,East,Furniture,Chair,11183,357.94,8,Ravi,Profit
+1827,9/1/2023,South,Technology,Pen,46442,-230.57,5,Pooja,Loss
+1828,9/29/2023,West,Furniture,Laptop,29613,-266.46,6,Rahul,Loss
+1829,2/19/2023,East,Technology,Printer,42933,9839.29,6,Ravi,Profit
+1830,5/17/2023,North,Technology,Pen,38484,-170.22,4,Sneha,Loss
+1831,9/24/2023,East,Office Supplies,Pen,11991,-519.99,1,Rahul,Loss
+1832,2/4/2023,North,Technology,Chair,34623,-5125.81,8,Neha,Loss
+1833,4/23/2023,East,Technology,Table,2430,-457.2,2,Rahul,Loss
+1834,11/1/2023,South,Office Supplies,Pen,8181,1260.18,2,Amit,Profit
+1835,11/6/2023,South,Technology,Pen,42661,3542.33,3,Amit,Profit
+1836,12/23/2023,South,Technology,Laptop,30802,4011.62,2,Priya,Profit
+1837,5/22/2023,West,Office Supplies,Pen,21394,-1526.07,2,Ravi,Loss
+1838,2/1/2023,West,Technology,Laptop,4136,-293.16,5,Pooja,Loss
+1839,8/14/2023,North,Technology,Table,40196,-148.03,8,Amit,Loss
+1840,3/15/2023,West,Furniture,Printer,42361,-6221.78,8,Ravi,Loss
+1841,2/22/2023,North,Furniture,Chair,37643,6164.89,8,Rahul,Profit
+1842,9/12/2023,South,Office Supplies,Pen,256,68.21,7,Ravi,Profit
+1843,3/19/2023,East,Technology,Printer,442,25.5,8,Priya,Profit
+1844,8/12/2023,West,Office Supplies,Chair,35597,-3099.66,7,Priya,Loss
+1845,3/4/2023,East,Technology,Pen,20046,6.16,2,Neha,Profit
+1846,10/1/2023,East,Furniture,Mouse,19202,2379.06,3,Rahul,Profit
+1847,7/16/2023,South,Technology,Pen,25765,6395.65,6,Priya,Profit
+1848,2/13/2023,West,Office Supplies,Table,9371,-1706.94,1,Sneha,Loss
+1849,9/8/2023,West,Furniture,Printer,42366,-1954.54,9,Priya,Loss
+1850,1/9/2023,North,Technology,Chair,22332,4329.94,1,Karan,Profit
+1851,3/2/2023,South,Office Supplies,Pen,34483,1006.39,9,Pooja,Profit
+1852,10/24/2023,South,Furniture,Chair,48399,-6253.38,1,Priya,Loss
+1853,11/13/2023,North,Furniture,Pen,42718,-5755.44,3,Rahul,Loss
+1854,6/7/2023,North,Technology,Printer,11386,2478.46,2,Amit,Profit
+1855,2/28/2023,West,Office Supplies,Printer,14655,-2468.56,4,Karan,Loss
+1856,6/22/2023,West,Technology,Chair,45032,3962.07,3,Neha,Profit
+1857,4/20/2023,North,Office Supplies,Table,22187,-3736.05,5,Pooja,Loss
+1858,8/1/2023,South,Office Supplies,Laptop,36468,-4284.88,4,Rahul,Loss
+1859,3/10/2023,North,Office Supplies,Printer,24850,4692.45,1,Priya,Profit
+1860,2/11/2023,North,Furniture,Table,6041,926.51,10,Ravi,Profit
+1861,8/2/2023,West,Office Supplies,Table,13710,-1761.13,5,Priya,Loss
+1862,7/30/2023,South,Furniture,Printer,45529,-8249.37,3,Priya,Loss
+1863,11/10/2023,North,Office Supplies,Laptop,22996,216,9,Sneha,Profit
+1864,4/9/2023,North,Office Supplies,Chair,40761,-776.47,9,Sneha,Loss
+1865,8/26/2023,South,Technology,Chair,12895,-1852.5,3,Priya,Loss
+1866,9/12/2023,South,Furniture,Pen,3025,-523.28,6,Ravi,Loss
+1867,4/18/2023,West,Technology,Laptop,40623,8229.28,8,Rahul,Profit
+1868,2/23/2023,North,Office Supplies,Table,10557,2034.82,8,Amit,Profit
+1869,2/6/2023,South,Office Supplies,Mouse,39043,3509.22,7,Sneha,Profit
+1870,12/13/2023,East,Furniture,Chair,21573,-1857.63,4,Karan,Loss
+1871,4/13/2023,West,Furniture,Chair,31066,2875.04,1,Karan,Profit
+1872,3/16/2023,South,Office Supplies,Mouse,11869,-75.19,3,Priya,Loss
+1873,4/10/2023,East,Technology,Table,22212,-3029.59,10,Rahul,Loss
+1874,5/24/2023,South,Furniture,Mouse,30253,275.66,6,Sneha,Profit
+1875,6/1/2023,South,Office Supplies,Printer,11336,1009.59,9,Sneha,Profit
+1876,2/14/2023,West,Office Supplies,Mouse,14384,1377.85,8,Ravi,Profit
+1877,1/8/2023,West,Office Supplies,Table,16441,-597.66,10,Sneha,Loss
+1878,10/30/2023,South,Office Supplies,Chair,27579,8000.45,1,Priya,Profit
+1879,9/16/2023,North,Technology,Printer,26042,1032.17,2,Priya,Profit
+1880,9/11/2023,South,Furniture,Printer,49553,-9602.8,7,Sneha,Loss
+1881,3/9/2023,East,Technology,Table,42643,12770.55,1,Priya,Profit
+1882,12/9/2023,East,Furniture,Pen,30299,6937.29,10,Rahul,Profit
+1883,8/21/2023,West,Furniture,Pen,26765,-2877.96,6,Priya,Loss
+1884,12/27/2023,North,Office Supplies,Chair,25423,6272.29,6,Rahul,Profit
+1885,6/1/2023,West,Technology,Pen,40340,2872.92,4,Amit,Profit
+1886,11/14/2023,East,Office Supplies,Chair,33933,9252.21,6,Rahul,Profit
+1887,2/26/2023,West,Technology,Mouse,40775,-7321.67,6,Pooja,Loss
+1888,11/28/2023,North,Office Supplies,Pen,13616,-1780.93,6,Sneha,Loss
+1889,10/4/2023,North,Office Supplies,Mouse,48524,13080.81,10,Sneha,Profit
+1890,4/26/2023,East,Technology,Laptop,33201,4651.9,5,Rahul,Profit
+1891,2/2/2023,East,Technology,Mouse,32065,1626.5,2,Priya,Profit
+1892,12/30/2023,East,Technology,Printer,24326,4864.03,2,Sneha,Profit
+1893,8/23/2023,North,Furniture,Mouse,11918,-665.19,2,Amit,Loss
+1894,3/26/2023,East,Furniture,Pen,9896,476.63,4,Rahul,Profit
+1895,5/31/2023,West,Office Supplies,Printer,8852,327.1,7,Priya,Profit
+1896,11/27/2023,North,Technology,Table,4325,-817.35,4,Neha,Loss
+1897,7/30/2023,East,Office Supplies,Pen,21584,929.71,9,Priya,Profit
+1898,8/23/2023,East,Office Supplies,Table,20286,-2315.27,5,Sneha,Loss
+1899,9/5/2023,East,Technology,Chair,9921,-232.54,8,Pooja,Loss
+1900,11/13/2023,South,Office Supplies,Printer,18893,-2056.69,3,Pooja,Loss
+1901,3/24/2023,South,Furniture,Chair,20950,1828.15,8,Ravi,Profit
+1902,7/9/2023,South,Furniture,Printer,46542,-8501.15,6,Neha,Loss
+1903,3/17/2023,East,Technology,Printer,10855,725.35,2,Rahul,Profit
+1904,7/27/2023,West,Furniture,Mouse,21185,-2584.01,9,Neha,Loss
+1905,11/28/2023,East,Technology,Laptop,49624,14408.07,10,Pooja,Profit
+1906,10/17/2023,West,Technology,Pen,7560,1253.6,1,Pooja,Profit
+1907,12/14/2023,North,Technology,Chair,26521,2884.45,4,Priya,Profit
+1908,7/2/2023,North,Technology,Chair,40055,4832.89,10,Sneha,Profit
+1909,5/23/2023,South,Furniture,Chair,35485,7974.39,2,Karan,Profit
+1910,4/10/2023,West,Technology,Printer,39854,2222.97,1,Neha,Profit
+1911,7/23/2023,South,Office Supplies,Mouse,24424,-169.59,1,Ravi,Loss
+1912,6/26/2023,East,Technology,Mouse,36967,-5774.27,8,Karan,Loss
+1913,8/15/2023,East,Furniture,Pen,27976,4596.53,7,Pooja,Profit
+1914,10/28/2023,North,Furniture,Table,20072,748.82,9,Neha,Profit
+1915,2/3/2023,West,Furniture,Chair,27034,3227.94,5,Karan,Profit
+1916,3/31/2023,West,Office Supplies,Printer,49695,12793.28,4,Pooja,Profit
+1917,7/15/2023,East,Office Supplies,Mouse,2967,627.22,5,Ravi,Profit
+1918,9/10/2023,West,Furniture,Chair,360,-44.28,5,Priya,Loss
+1919,3/5/2023,East,Technology,Table,32436,8219.17,4,Rahul,Profit
+1920,3/3/2023,East,Technology,Chair,39448,6815.94,10,Priya,Profit
+1921,10/17/2023,West,Technology,Pen,45151,1716.66,2,Neha,Profit
+1922,9/20/2023,North,Technology,Table,38319,-6542.77,6,Priya,Loss
+1923,12/21/2023,South,Technology,Table,3666,-233.4,7,Neha,Loss
+1924,1/25/2023,East,Technology,Printer,42073,11282.23,9,Sneha,Profit
+1925,11/18/2023,South,Furniture,Printer,49524,-5766.18,6,Neha,Loss
+1926,12/17/2023,East,Technology,Pen,45941,6623.47,2,Neha,Profit
+1927,3/15/2023,North,Furniture,Printer,18642,-251.53,8,Karan,Loss
+1928,6/24/2023,South,Furniture,Table,10328,533.87,4,Amit,Profit
+1929,8/2/2023,West,Furniture,Chair,8800,2303,8,Neha,Profit
+1930,6/9/2023,East,Furniture,Mouse,39367,2423.45,6,Pooja,Profit
+1931,12/30/2023,East,Furniture,Pen,7972,-708.08,3,Sneha,Loss
+1932,6/7/2023,South,Furniture,Table,5351,66.37,2,Amit,Profit
+1933,1/10/2023,West,Technology,Chair,13068,-1909.12,9,Rahul,Loss
+1934,8/29/2023,North,Technology,Chair,4541,-223.31,1,Amit,Loss
+1935,3/5/2023,South,Office Supplies,Table,12309,1665.41,1,Amit,Profit
+1936,3/16/2023,East,Office Supplies,Laptop,23281,-2787.23,9,Sneha,Loss
+1937,9/16/2023,North,Furniture,Printer,1116,71.89,4,Ravi,Profit
+1938,3/29/2023,North,Office Supplies,Chair,14225,3701.89,8,Neha,Profit
+1939,12/24/2023,South,Technology,Pen,7233,-792.56,6,Karan,Loss
+1940,8/6/2023,South,Office Supplies,Table,26911,-3863.81,6,Amit,Loss
+1941,8/27/2023,North,Office Supplies,Table,32693,5921.91,5,Rahul,Profit
+1942,2/12/2023,East,Technology,Chair,25417,-1479.12,10,Ravi,Loss
+1943,12/18/2023,West,Furniture,Printer,26891,-1471.08,7,Sneha,Loss
+1944,2/5/2023,West,Office Supplies,Laptop,11950,-2313.6,8,Amit,Loss
+1945,7/22/2023,West,Office Supplies,Pen,44536,-7014.29,3,Karan,Loss
+1946,7/25/2023,North,Office Supplies,Table,4440,-80.56,4,Neha,Loss
+1947,4/13/2023,West,Furniture,Table,28033,4558.17,5,Ravi,Profit
+1948,11/26/2023,West,Technology,Mouse,43891,4458.57,7,Priya,Profit
+1949,9/19/2023,East,Furniture,Mouse,7280,-1011.23,8,Priya,Loss
+1950,4/29/2023,South,Furniture,Chair,48552,-8427.35,2,Priya,Loss
+1951,12/14/2023,North,Furniture,Mouse,39822,5559.24,3,Ravi,Profit
+1952,11/15/2023,North,Furniture,Pen,49457,2966.16,8,Priya,Profit
+1953,4/14/2023,East,Office Supplies,Mouse,32329,1693.95,9,Neha,Profit
+1954,10/4/2023,North,Furniture,Mouse,8007,-65.54,6,Karan,Loss
+1955,8/15/2023,West,Furniture,Chair,11791,923.63,5,Pooja,Profit
+1956,9/9/2023,West,Furniture,Laptop,47105,-257.18,2,Priya,Loss
+1957,12/4/2023,West,Technology,Printer,10443,557.06,7,Ravi,Profit
+1958,9/11/2023,West,Office Supplies,Pen,23318,4272.68,5,Neha,Profit
+1959,2/1/2023,North,Office Supplies,Chair,8601,1879.04,6,Rahul,Profit
+1960,11/17/2023,East,Technology,Chair,28259,-775.1,6,Karan,Loss
+1961,6/29/2023,North,Office Supplies,Table,16427,-1358.33,5,Amit,Loss
+1962,12/19/2023,North,Technology,Chair,22324,-2569.72,9,Neha,Loss
+1963,1/20/2023,West,Office Supplies,Mouse,37427,2147.56,7,Ravi,Profit
+1964,1/11/2023,West,Office Supplies,Chair,20943,-233.12,7,Neha,Loss
+1965,10/21/2023,North,Technology,Chair,45476,6255.48,6,Priya,Profit
+1966,9/15/2023,East,Furniture,Printer,19829,-363.52,7,Sneha,Loss
+1967,9/12/2023,North,Office Supplies,Table,19032,-1283.18,5,Karan,Loss
+1968,4/26/2023,North,Office Supplies,Printer,6408,614.73,5,Amit,Profit
+1969,10/18/2023,West,Technology,Table,22961,4542.28,5,Ravi,Profit
+1970,8/10/2023,East,Furniture,Mouse,26565,-1975.58,9,Priya,Loss
+1971,12/10/2023,South,Furniture,Pen,46293,2690.18,3,Priya,Profit
+1972,4/20/2023,West,Technology,Pen,35112,7179.24,7,Rahul,Profit
+1973,9/25/2023,South,Technology,Mouse,9882,-788.71,5,Karan,Loss
+1974,7/30/2023,East,Furniture,Pen,13540,3019.2,5,Ravi,Profit
+1975,11/27/2023,South,Technology,Pen,39602,-3244.79,4,Amit,Loss
+1976,3/18/2023,South,Furniture,Table,20551,659.27,9,Karan,Profit
+1977,8/5/2023,North,Furniture,Table,18072,-2381.61,5,Ravi,Loss
+1978,12/4/2023,South,Office Supplies,Chair,47548,2040.81,1,Rahul,Profit
+1979,2/12/2023,East,Office Supplies,Laptop,4366,1092.75,7,Neha,Profit
+1980,12/10/2023,North,Technology,Pen,9411,-771.51,10,Amit,Loss
+1981,9/25/2023,East,Technology,Chair,15802,1578.79,6,Neha,Profit
+1982,10/27/2023,West,Office Supplies,Pen,15662,4193.5,4,Pooja,Profit
+1983,2/24/2023,South,Furniture,Laptop,29001,121.45,10,Rahul,Profit
+1984,9/9/2023,East,Office Supplies,Chair,20941,1526.02,8,Sneha,Profit
+1985,5/23/2023,South,Technology,Mouse,47102,-759.77,5,Rahul,Loss
+1986,11/27/2023,North,Office Supplies,Pen,3783,549.83,4,Ravi,Profit
+1987,10/10/2023,West,Technology,Pen,46115,-856.47,2,Sneha,Loss
+1988,8/15/2023,West,Furniture,Mouse,16946,-839.77,4,Ravi,Loss
+1989,4/18/2023,South,Technology,Pen,20986,5031.05,7,Rahul,Profit
+1990,5/21/2023,North,Technology,Mouse,48496,314.29,6,Karan,Profit
+1991,2/21/2023,South,Office Supplies,Laptop,33383,-5568.83,7,Neha,Loss
+1992,8/21/2023,North,Furniture,Pen,42247,-4568.18,8,Pooja,Loss
+1993,1/2/2023,West,Furniture,Pen,20224,-872.45,2,Amit,Loss
+1994,3/22/2023,South,Office Supplies,Pen,42744,7761.51,10,Karan,Profit
+1995,6/13/2023,West,Technology,Pen,8949,-623.39,10,Neha,Loss
+1996,5/25/2023,South,Furniture,Mouse,24291,-2649.06,7,Sneha,Loss
+1997,1/11/2023,North,Office Supplies,Pen,40308,4567.45,2,Priya,Profit
+1998,4/12/2023,East,Office Supplies,Table,3462,1.79,7,Ravi,Profit
+1999,3/18/2023,North,Technology,Table,37374,-5281.87,9,Karan,Loss
+2000,8/21/2023,West,Furniture,Table,46964,-4622.54,5,Ravi,Loss
